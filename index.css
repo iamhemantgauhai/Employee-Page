@@ -1,0 +1,9 @@
+body{
+    background-color: orange;
+}
+
+img{
+    width: 330px;
+    height: 330px;
+    border-radius:100%;
+}
